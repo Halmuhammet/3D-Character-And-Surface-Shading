@@ -1,13 +1,7 @@
 ## Surface Shading - Module 6
-
+![output gif](A2outputGIF_Halmuhammet.gif)
 ### 🧱 Description
 This program renders a 3D character simulation utilizing surface shading techniques to enhance realism and depth.
-
-### ✍️ Author
-**Halmuhammet Muhamedorazov**
-
-### 📅 Date
-11/02/2024
 
 ### 🛠️ Version
 - `g++` 13.2.0  
