@@ -1,7 +1,7 @@
-## Surface Shading - Module 6
+## Surface Shading and Transformations
 ![output gif](A2outputGIF_Halmuhammet.gif)
 ### 🧱 Description
-This program renders a 3D character simulation utilizing surface shading techniques to enhance realism and depth.
+This program renders a 3D character simulation utilizing surface shading and linear transformation techniques to enhance realism and depth.
 
 ### 🛠️ Version
 - `g++` 13.2.0  
